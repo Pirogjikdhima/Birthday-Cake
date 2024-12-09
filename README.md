@@ -19,8 +19,20 @@ To run the animation, you’ll need **Manim** installed. You can install it usin
 ```bash
 pip install manim
 ## How to Run the Animation
-
+```
 1. **Clone the repository:**
 
    ```bash
    git clone https://github.com/your-username/birthday-cake-animation.git
+   ```
+2.**Navigate into the project directory:**
+
+  ```bash
+  cd birthday-cake-animation
+  ```
+3.**Run the animation using Manim with the following command:**
+  ```bash
+  manim -pql cake_animation.py CakeAnimation
+  ```
+ -pql stands for preview quality (low resolution) to quickly render the animation.
+ The rendered animation will appear as a video in the media folder.
