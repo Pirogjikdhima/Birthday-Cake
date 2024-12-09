@@ -22,7 +22,7 @@ pip install manim
 1. **Clone the repository:**
    
    ```bash
-    git clone https://github.com/your-username/birthday-cake-animation.git
+    git clone https://github.com/Pirogjikdhima/Birthday-Cake.git
    ```
 2. **Navigate into the project directory:**
    
